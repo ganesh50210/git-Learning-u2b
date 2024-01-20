@@ -1,0 +1,7 @@
+The TOC magic is in the styles that are used to format headings. The heading for this section, Use styles for headings, might look like a heading, but it doesn’t act like one. It’s formatted in pieces (font size, underline) instead of being formatted with a style. See how it’s not in the TOC you added? To add a heading to a TOC, it needs to be formatted with the Heading 1 style.
+Try It: Update the style, and then update the TOC.
+1.	Click in the heading above (Use styles for headings)—be sure to just click, don’t select anything.
+2.	On the Home tab, find Styles, and click Heading 1 (keyboard shortcut: Alt+Ctrl+1).
+3.	Update your TOC like you did before, but this time, select Update entire table (instead of Update page numbers only) since more than the page numbers changed. 
+Now Word knows that paragraph is a heading, and includes it in the TOC. 
+
